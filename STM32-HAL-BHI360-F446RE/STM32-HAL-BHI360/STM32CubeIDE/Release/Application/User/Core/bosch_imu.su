@@ -1,0 +1,5 @@
+../Application/User/Core/bosch_imu.c:158:6:parse_euler	16	static
+../Application/User/Core/bosch_imu.c:199:6:parse_accell	16	static
+../Application/User/Core/bosch_imu.c:240:6:parse_gyro	16	static
+../Application/User/Core/bosch_imu.c:50:6:bosch_imu_setup	32	static
+../Application/User/Core/bosch_imu.c:146:6:bosch_imu_run	8	static

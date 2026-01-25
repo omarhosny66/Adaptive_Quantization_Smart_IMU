@@ -1,0 +1,10 @@
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:506:6:UART2_printf	280	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:243:6:SystemClock_Config	88	static,ignoring_inline_asm
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:429:8:bhy2_i2c_read	24	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:443:8:bhy2_i2c_write	24	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:463:6:HAL_TIM_PeriodElapsedCallback	0	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:476:10:micros	8	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:102:5:main	72	static,ignoring_inline_asm
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:482:6:micros_delay	8	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:457:6:bhy2_delay_us	0	static
+/home/omar/BHI360/BHI360/STM32-HAL-BHI360-F446RE/STM32-HAL-BHI360/Core/Src/main.c:523:6:Error_Handler	0	static,ignoring_inline_asm
