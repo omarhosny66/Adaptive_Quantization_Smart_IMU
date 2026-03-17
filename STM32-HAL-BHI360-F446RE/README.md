@@ -1,6 +1,6 @@
 # BHI360 Driver for STM32 Nucleo-F446RE (HAL)
 
-This repository provides a hardware abstraction layer and integration for the Bosch BHI360 Smart IMU on the STM32F446RE microcontroller. This implementation replaces the Bosch COINES dependency with a lightweight platform layer built directly on the STM32Cube HAL, specifically tailored for resource-constrained embedded environments.
+This repository provides a hardware abstraction layer and integration for the Bosch BHI360 Smart IMU on the STM32F446RE microcontroller. This implementation replaces the Bosch COINES dependency with a lightweight platform layer built directly on the STM32Cube HAL, specifically tailored for resource constrained embedded environments.
 
 The BHI360 is a smart sensor hub that requires a firmware upload to its internal RAM/Flash upon startup. Unlike standard IMUs, data is accessed through a structured FIFO event system rather than simple register polling.
 
